@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DomiNetpro-RdMF.aternos.me",
-    "port": 22483,
+    "ip": "DomiNetpro.aternos.me",
+    "port": 28402,
     "version": "1.21.6",
     "try-creative": false
   },
@@ -32,8 +32,10 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to foros!",
         "I like to play Minecraft!"
+        "/register Forosafk"
+        "/login Forosafk"
       ]
     },
     "chat-log": true,
