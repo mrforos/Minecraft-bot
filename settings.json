@@ -2,7 +2,7 @@
   "name": "Forosafk",
   "bot-account": {
     "username": "Forosafk",
-    "password": "Foros575244",
+    "password": "Forosafk",
     "type": "offline"
   },
   "server": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Foros575244"
+      "password": "Forosafk"
     },
     "anti-afk": {
       "enabled": true,
