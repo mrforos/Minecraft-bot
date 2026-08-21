@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DomiNetpro.aternos.me",
-    "port": 28402,
+    "ip": "DomiNetpro-RdMF.aternos.me",
+    "port": 22483,
     "version": "1.21.6",
     "try-creative": false
   },
