@@ -1,25 +1,25 @@
 {
   "name": "Afk bot",
   "bot-account": {
-    "username": "Proprebot1",
+    "username": "Forosbot",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "DomiNetpro.aternos.me",
     "port": 28402,
-    "version": "1.21.10",
+    "version": "1.21.6",
     "try-creative": false
   },
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 50,
+    "y": 100,
     "z": 0
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
+      "enabled": true,
       "password": "Forosafk"
     },
     "anti-afk": {
