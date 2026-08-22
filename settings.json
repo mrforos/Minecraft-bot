@@ -8,14 +8,14 @@
   "server": {
     "ip": "DomiNetpro.aternos.me",
     "port": 28402,
-    "version": "1.21.6",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 50,
-    "y": 96,
-    "z": 43
+    "x": 0,
+    "y": 50,
+    "z": 0
   },
   "utils": {
     "auto-auth": {
